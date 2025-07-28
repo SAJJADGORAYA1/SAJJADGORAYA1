@@ -9,11 +9,11 @@ I’m an aspiring **Artificial Intelligence Engineer** currently pursuing my **M
 
 ---
 
-### 🧠 About Me
-- 🔬 Passionate about **Machine Learning**, **Computer Vision**, **Natural Language Processing**, and **Generative AI**
-- 📚 Exploring research in **Zero-Shot Learning**, **Multimodal AI (CLIP)**, and **Sign Language Translation using AI**
-- 💻 Proficient in Python, PyTorch, TensorFlow, OpenCV, and data-driven problem solving
-- 🎯 Actively seeking **PhD research positions** or **AI/ML roles** in the **UK**, **Europe**, **USA**, or **Canada**
+###  About Me
+-  Passionate about **Machine Learning**, **Computer Vision**, **Natural Language Processing**, and **Generative AI**
+-  Exploring research in **Zero-Shot Learning**, **Multimodal AI (CLIP)**, and **Sign Language Translation using AI**
+-  Proficient in Python, PyTorch, TensorFlow, OpenCV, and data-driven problem solving
+-  Actively seeking **PhD research positions** or **AI/ML roles** in the **UK**, **Europe**, **USA**, or **Canada**
 
 ---
 
