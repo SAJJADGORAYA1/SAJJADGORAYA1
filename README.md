@@ -5,7 +5,7 @@
 
 ## Hi there 👋
 
-I’m an aspiring **Artificial Intelligence Engineer** currently pursuing my **Master’s degree in Artificial Intelligence** from **London Metropolitan University**, graduating in **September 2025**.
+I’m an aspiring **AI Engineer** currently pursuing my **Master’s degree in Artificial Intelligence** from **London Metropolitan University**, graduating in **September 2025**.
 
 ---
 
