@@ -1,7 +1,16 @@
 <!-- Banner / Header -->
+<style>
+  @media (prefers-color-scheme: dark) {
+    .dark-mode-img {
+      filter: invert(1) hue-rotate(180deg);
+    }
+  }
+</style>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:blue,100:purple&height=150&section=header&text=Hi%2C%20I’m%20Sajjad%20Goraya!&fontSize=60" alt="Banner"/>
+  <img class="dark-mode-img" src="https://capsule-render.vercel.app/api?type=waving&color=0:blue,100:purple&height=150&section=header&text=Hi%2C%20I’m%20Sajjad%20Goraya!&fontSize=60" alt="Banner"/>
 </p>
+
 
 ## Hi there 👋
 
