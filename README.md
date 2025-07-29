@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:FFD700&height=150&section=header&text=Hi%20Sajjad%20Goraya&fontSize=60&animation=fadeIn&fontColor=ffffff" alt="Banner" />
 </p>
 
-## Hi there 👋
 
 I’m an aspiring **AI Engineer** currently pursuing my **Master’s degree in Artificial Intelligence** from **London Metropolitan University**, graduating in **September 2025**.
 
