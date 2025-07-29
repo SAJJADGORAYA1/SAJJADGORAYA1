@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:#00ffff,100:#ff00ff&height=150&section=header&text=Hi%2C%20I’m%20Sajjad%20Goraya!&fontSize=60" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:#2196F3,100:#9C27B0&height=150&section=header&text=Hi%2C%20I%E2%80%99m%20Sajjad%20Goraya!&fontSize=60" alt="Banner"/>
 </p>
+
 
 
 
